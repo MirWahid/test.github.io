@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Testing Website</title>
+Testing Website
 </head>
 <body>
 <h1>This is a testing website</h1>
